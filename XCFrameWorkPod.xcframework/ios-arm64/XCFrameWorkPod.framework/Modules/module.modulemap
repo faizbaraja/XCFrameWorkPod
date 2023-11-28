@@ -1,0 +1,6 @@
+framework module XCFrameWorkPod {
+  umbrella header "XCFrameWorkPod.h"
+
+  export *
+  module * { export * }
+}
