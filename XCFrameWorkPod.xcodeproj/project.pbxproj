@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F420D06A2B171B6B000B2B9A /* Random.swift in Sources */ = {isa = PBXBuildFile; fileRef = F420D0692B171B6B000B2B9A /* Random.swift */; };
+		F420D06D2B171FD5000B2B9A /* Validator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F420D06C2B171FD5000B2B9A /* Validator.swift */; };
 		F4ADD8F42B15EB3B000D5102 /* XCFrameWorkPod.docc in Sources */ = {isa = PBXBuildFile; fileRef = F4ADD8F32B15EB3B000D5102 /* XCFrameWorkPod.docc */; };
 		F4ADD8FA2B15EB3B000D5102 /* XCFrameWorkPod.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4ADD8EF2B15EB3B000D5102 /* XCFrameWorkPod.framework */; };
 		F4ADD8FF2B15EB3B000D5102 /* XCFrameWorkPodTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4ADD8FE2B15EB3B000D5102 /* XCFrameWorkPodTests.swift */; };
@@ -24,6 +26,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F420D0692B171B6B000B2B9A /* Random.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Random.swift; sourceTree = "<group>"; };
+		F420D06C2B171FD5000B2B9A /* Validator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Validator.swift; sourceTree = "<group>"; };
 		F4ADD8EF2B15EB3B000D5102 /* XCFrameWorkPod.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = XCFrameWorkPod.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4ADD8F22B15EB3B000D5102 /* XCFrameWorkPod.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XCFrameWorkPod.h; sourceTree = "<group>"; };
 		F4ADD8F32B15EB3B000D5102 /* XCFrameWorkPod.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = XCFrameWorkPod.docc; sourceTree = "<group>"; };
@@ -72,7 +76,9 @@
 			isa = PBXGroup;
 			children = (
 				F4ADD8F22B15EB3B000D5102 /* XCFrameWorkPod.h */,
+				F420D0692B171B6B000B2B9A /* Random.swift */,
 				F4ADD8F32B15EB3B000D5102 /* XCFrameWorkPod.docc */,
+				F420D06C2B171FD5000B2B9A /* Validator.swift */,
 			);
 			path = XCFrameWorkPod;
 			sourceTree = "<group>";
@@ -194,6 +200,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F420D06A2B171B6B000B2B9A /* Random.swift in Sources */,
+				F420D06D2B171FD5000B2B9A /* Validator.swift in Sources */,
 				F4ADD8F42B15EB3B000D5102 /* XCFrameWorkPod.docc in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -396,6 +404,7 @@
 		F4ADD9072B15EB3B000D5102 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -411,6 +420,7 @@
 		F4ADD9082B15EB3B000D5102 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;

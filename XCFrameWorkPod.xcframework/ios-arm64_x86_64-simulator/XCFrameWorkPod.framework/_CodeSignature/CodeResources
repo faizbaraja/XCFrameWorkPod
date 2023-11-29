@@ -4,21 +4,72 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/XCFrameWorkPod-Swift.h</key>
+		<data>
+		PiRkEuiqz19coI8aXU9lLZ2CGcQ=
+		</data>
 		<key>Headers/XCFrameWorkPod.h</key>
 		<data>
 		qRgDRhLUJOyvCdJM2dMWc6Gyx1A=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		qBoo9qREy1jOgDPrxG+Ng8QyTFY=
+		L6/fi/wAzGSrj9guPDsS6wUQmmw=
+		</data>
+		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		/dLsi8bB2HxGGb4h9BEgWlsw4Uc=
+		</data>
+		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		wf9ARsUNScnT84y9qGnq5krXad4=
+		</data>
+		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		J5RMseBtCG2X5esLmUcBAsDhXO0=
+		</data>
+		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		wf9ARsUNScnT84y9qGnq5krXad4=
+		</data>
+		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		ACd2Qd/vYLXIsk+m1mAc/MUx3Vs=
+		</data>
+		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		/dLsi8bB2HxGGb4h9BEgWlsw4Uc=
+		</data>
+		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		+PFrRVpda/XpLplAywb87rQLAJ0=
+		</data>
+		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		QVZN187Tfk/D3bZYYQh0+066ICE=
+		</data>
+		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		+PFrRVpda/XpLplAywb87rQLAJ0=
+		</data>
+		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		nPhkczx5k28dcgTyIduZzonVTC8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Acb/b9ycoaSczUnqejwCQOTkrI8=
+		sTbTcBn/ntFmZsPUakQsAsezR50=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/XCFrameWorkPod-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GIZTPUiMnwI9CgWMfSmtX6XVVO/l8R4hx8qMldYZh5o=
+			</data>
+		</dict>
 		<key>Headers/XCFrameWorkPod.h</key>
 		<dict>
 			<key>hash2</key>
@@ -26,11 +77,81 @@
 			FfyIC39zG1O+B6RfFvUW7fhpzkK/ZnPnLd0RsMFWRNQ=
 			</data>
 		</dict>
+		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lpTOJDdxlpYJbKlUgyrUZliGWnIAwaTOri8GEpaI8XA=
+			</data>
+		</dict>
+		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YhGzD1ayb5+sQA4qG2gQtFNttFA0MIdTRK7QFlmkb/g=
+			</data>
+		</dict>
+		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yFTzcM0l1LLr3Zj+1c/u8w+p5QoOqL3Zpo/FPRLyo+E=
+			</data>
+		</dict>
+		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YhGzD1ayb5+sQA4qG2gQtFNttFA0MIdTRK7QFlmkb/g=
+			</data>
+		</dict>
+		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FVVy0oGlMlyzgsZrWvyVZ/EEjxwXo/EELNFivDmCnQw=
+			</data>
+		</dict>
+		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lpTOJDdxlpYJbKlUgyrUZliGWnIAwaTOri8GEpaI8XA=
+			</data>
+		</dict>
+		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IS2EeNl8wLt6Gl8yfBzR6Uja8zvuODeEzbBA7b+iplk=
+			</data>
+		</dict>
+		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ezvsc3VDnT7MFAjZ7S9IFfXAKKQxFC5C3WM2MqKUxAk=
+			</data>
+		</dict>
+		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IS2EeNl8wLt6Gl8yfBzR6Uja8zvuODeEzbBA7b+iplk=
+			</data>
+		</dict>
+		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pssho4XTQ3g8p3vvXeahNb7PQj5hgl0ElS4JTK7ajAQ=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			npBlXxOC7xXWhokl2sE5INen2GK+VzhtRvybvrwGXd4=
+			emgWQ6b02D8uNcR7xj34I2FC910AwwONYuYNx08Fx1o=
 			</data>
 		</dict>
 	</dict>

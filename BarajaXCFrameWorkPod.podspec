@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "BarajaXCFrameWorkPod"
-    s.version      = "0.0.2"
+    s.version      = "0.0.3"
     s.summary      = "XCFrameWorkPod: XCFrameWorkPod"
     s.description  = "XCFrameWorkPod: XCFrameWorkPod your description"
     s.homepage     = "https://github.com/oguzhankarakus/VeryUsefulFramework.git"

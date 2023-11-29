@@ -4,3 +4,8 @@ framework module XCFrameWorkPod {
   export *
   module * { export * }
 }
+
+module XCFrameWorkPod.Swift {
+  header "XCFrameWorkPod-Swift.h"
+  requires objc
+}
