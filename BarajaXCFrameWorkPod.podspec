@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
     s.name         = "BarajaXCFrameWorkPod"
-    s.version      = "0.0.4"
+    s.version      = "0.0.5"
     s.summary      = "XCFrameWorkPod: XCFrameWorkPod"
     s.description  = "XCFrameWorkPod: XCFrameWorkPod your description"
-    s.homepage     = "https://github.com/oguzhankarakus/VeryUsefulFramework.git"
+    s.homepage     = "https://github.com/faizbaraja/XCFrameWorkPod"
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
     s.author             = { "faizbaraja" => "faiz.baraja89@mail.com" }
     s.source       = { :git => "https://github.com/faizbaraja/XCFrameWorkPod.git", :branch => "master", :tag => "#{s.version}" }

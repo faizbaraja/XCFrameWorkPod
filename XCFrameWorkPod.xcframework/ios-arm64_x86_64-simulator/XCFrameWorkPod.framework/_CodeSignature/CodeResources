@@ -4,9 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>DataModelV1.momd/DataModelV1.mom</key>
+		<data>
+		dRLZ8CLY0WyR4YPK7AsE59sBF3M=
+		</data>
+		<key>DataModelV1.momd/VersionInfo.plist</key>
+		<data>
+		awFTQDeOyjbtenyLWS9YxG4kaHQ=
+		</data>
 		<key>Headers/XCFrameWorkPod-Swift.h</key>
 		<data>
-		PiRkEuiqz19coI8aXU9lLZ2CGcQ=
+		JD8hXKFVw3fHibD8ipBuPyQ5IF8=
 		</data>
 		<key>Headers/XCFrameWorkPod.h</key>
 		<data>
@@ -14,60 +22,90 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		L6/fi/wAzGSrj9guPDsS6wUQmmw=
+		hYYUJqpVICMSlU+R6/16X1ggS10=
+		</data>
+		<key>LICENSE</key>
+		<data>
+		2wsm2E1hwdlmbNw/hFdNRKbGzm4=
 		</data>
 		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		/dLsi8bB2HxGGb4h9BEgWlsw4Uc=
+		P5sqpMqmSHo3+XF4Wgf120bGbzw=
 		</data>
 		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		wf9ARsUNScnT84y9qGnq5krXad4=
+		iDiOuanYpIk5rGnS5di7tO24JFc=
 		</data>
 		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		J5RMseBtCG2X5esLmUcBAsDhXO0=
+		SH51E8KkheIYMbt3FgdMid73C+E=
 		</data>
 		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		wf9ARsUNScnT84y9qGnq5krXad4=
+		iDiOuanYpIk5rGnS5di7tO24JFc=
 		</data>
 		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ACd2Qd/vYLXIsk+m1mAc/MUx3Vs=
+		L/jp9+H2iKvubfbnnn2Om6bNjBA=
 		</data>
 		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		/dLsi8bB2HxGGb4h9BEgWlsw4Uc=
+		P5sqpMqmSHo3+XF4Wgf120bGbzw=
 		</data>
 		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		+PFrRVpda/XpLplAywb87rQLAJ0=
+		Gusphi8mvSe3iztAsEtWA5efDuw=
 		</data>
 		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		QVZN187Tfk/D3bZYYQh0+066ICE=
+		SLmchl8uCGk+r2vj02TOPPkYtH4=
 		</data>
 		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		+PFrRVpda/XpLplAywb87rQLAJ0=
+		Gusphi8mvSe3iztAsEtWA5efDuw=
 		</data>
 		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		nPhkczx5k28dcgTyIduZzonVTC8=
+		tRf3NwRNufR2pX+POvWgjNvd/Ic=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		sTbTcBn/ntFmZsPUakQsAsezR50=
+		KHErsfpRKgjAbT30Pl/ExIoHl60=
+		</data>
+		<key>PhoneNumberMetadata.json</key>
+		<data>
+		ptdIbU+0tSdl5Pb2ImAr7bAwFb4=
+		</data>
+		<key>README.md</key>
+		<data>
+		J7Y8qgujhQzatS9cAHI6Jarsqbg=
+		</data>
+		<key>country_codes.json</key>
+		<data>
+		7qC1SS/PIV/Ld+cS3/jPgj3Myns=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>DataModelV1.momd/DataModelV1.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d3PhVdP0ZrkWG3G7SdICZpT+0KvaZE8wFXpCdNuzXaY=
+			</data>
+		</dict>
+		<key>DataModelV1.momd/VersionInfo.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Wo9ePOCnHHzHHWz5HwajAWw3u2XO7qJcjkEvuTRgcOQ=
+			</data>
+		</dict>
 		<key>Headers/XCFrameWorkPod-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GIZTPUiMnwI9CgWMfSmtX6XVVO/l8R4hx8qMldYZh5o=
+			ThYsGMi1fYyFWRsgM2ER9eNLCw78wlsfmXbE6I1sIQc=
 			</data>
 		</dict>
 		<key>Headers/XCFrameWorkPod.h</key>
@@ -77,81 +115,109 @@
 			FfyIC39zG1O+B6RfFvUW7fhpzkK/ZnPnLd0RsMFWRNQ=
 			</data>
 		</dict>
+		<key>LICENSE</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JNzHuoD7jdOEMyznMwjXo/SDoW9EqguaDjl7IJauSbU=
+			</data>
+		</dict>
 		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lpTOJDdxlpYJbKlUgyrUZliGWnIAwaTOri8GEpaI8XA=
+			ZWGMpTrrU5Bk1qrX//UTn6279Fndm6rin7uuKZFoIYg=
 			</data>
 		</dict>
 		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YhGzD1ayb5+sQA4qG2gQtFNttFA0MIdTRK7QFlmkb/g=
+			vTzVhgjRbpnN/IUSR+b4hofIVx3ryimCMRpCRKxkTSU=
 			</data>
 		</dict>
 		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yFTzcM0l1LLr3Zj+1c/u8w+p5QoOqL3Zpo/FPRLyo+E=
+			cjkNxlcjDBCYQ2YGxQ9pIFHuseJJivNWqVaqBQD+3SI=
 			</data>
 		</dict>
 		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YhGzD1ayb5+sQA4qG2gQtFNttFA0MIdTRK7QFlmkb/g=
+			vTzVhgjRbpnN/IUSR+b4hofIVx3ryimCMRpCRKxkTSU=
 			</data>
 		</dict>
 		<key>Modules/XCFrameWorkPod.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FVVy0oGlMlyzgsZrWvyVZ/EEjxwXo/EELNFivDmCnQw=
+			oKmnCdeuM9UomrMEzcMq6eQU10uTXBxQgZLjuGXno3I=
 			</data>
 		</dict>
 		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lpTOJDdxlpYJbKlUgyrUZliGWnIAwaTOri8GEpaI8XA=
+			ZWGMpTrrU5Bk1qrX//UTn6279Fndm6rin7uuKZFoIYg=
 			</data>
 		</dict>
 		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IS2EeNl8wLt6Gl8yfBzR6Uja8zvuODeEzbBA7b+iplk=
+			1KG7O3dE9al/TbwHuTf67pdHAMmKGyIj4ep7ZJMvMm8=
 			</data>
 		</dict>
 		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ezvsc3VDnT7MFAjZ7S9IFfXAKKQxFC5C3WM2MqKUxAk=
+			B13Wnon9IOLg2HzEd4cBNnTn4x9ivHmSBJhlMTmrYFw=
 			</data>
 		</dict>
 		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IS2EeNl8wLt6Gl8yfBzR6Uja8zvuODeEzbBA7b+iplk=
+			1KG7O3dE9al/TbwHuTf67pdHAMmKGyIj4ep7ZJMvMm8=
 			</data>
 		</dict>
 		<key>Modules/XCFrameWorkPod.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pssho4XTQ3g8p3vvXeahNb7PQj5hgl0ElS4JTK7ajAQ=
+			/X+tNfvGRy2BZIusnkF85i7GVx0U9kv0zG0sqK+Ucvo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			emgWQ6b02D8uNcR7xj34I2FC910AwwONYuYNx08Fx1o=
+			MXXdFX7+xtwMHQjrrBCE2vWEkTUxQPlVMZCXrmuBzYw=
+			</data>
+		</dict>
+		<key>PhoneNumberMetadata.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MjbWv6lTUXBUOpDuGR4CJpZe/N2ywW/B5OqyY+NNArw=
+			</data>
+		</dict>
+		<key>README.md</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vqRfXRXGCmS4xCJlPjR+oCmm/WvTqGjnjRNnwZVHDs0=
+			</data>
+		</dict>
+		<key>country_codes.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gR6Ncwyd8Wj7Cq3otuArUtCOMtmDl4d7AWsalcS/Sg4=
 			</data>
 		</dict>
 	</dict>
