@@ -1,13 +1,10 @@
-```markdown
 # TadaWalletKit
 
-TadaWalletKit is a powerful and easy-to-use SDK for iOS applications. It provides a set of tools and components to enhance your app development experience.
+TadaWalletKit is a powerful and easy-to-use SDK for creating your loyalty iOS applications. It provides a set of tools and components to enhance your loyalty app development experience.
 
 ## Features
 
-- **Feature 1**: Describe the first feature of your SDK.
-- **Feature 2**: Describe the second feature of your SDK.
-- **Feature 3**: Describe the third feature of your SDK.
+- **Feature 1**: Use tada wallet services from TadaWalletKit.
 
 ## Requirements
 
@@ -22,11 +19,11 @@ TadaWalletKit is a powerful and easy-to-use SDK for iOS applications. It provide
 [CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. To integrate TadaWalletKit into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
-platform :ios, '11.0'
+platform :ios, '12.0'
 use_frameworks!
 
 target 'YourAppTarget' do
-  pod 'TadaWalletKit', '~> 1.0.0'
+  pod 'TadaWalletKit'
 end
 ```
 
@@ -91,4 +88,3 @@ You can request new features by opening an issue in the [issue tracker](https://
 ## License
 
 TadaWalletKit is released under the MIT license. See [LICENSE](LICENSE) for details.
-```
